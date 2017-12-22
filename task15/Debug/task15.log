@@ -1,0 +1,11 @@
+﻿  ShortestPathGraph.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task15\task15\shortestpathgraph.cpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task15\task15\shortestpathgraph.cpp(80): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task15\task15\shortestpathgraph.cpp(89): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task15\task15\shortestpathgraph.cpp(145): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Компиляция...
+  Source.cpp
+  Создание кода...
+  task15.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\task15\Debug\task15.exe
+  task15.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\task15\Debug\task15.pdb (Partial PDB)
